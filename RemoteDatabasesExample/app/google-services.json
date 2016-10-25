@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "982193361329",
+    "firebase_url": "https://remote-databases-example.firebaseio.com",
+    "project_id": "remote-databases-example",
+    "storage_bucket": "remote-databases-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982193361329:android:1072a12e259bf4ec",
+        "android_client_info": {
+          "package_name": "com.example.lanceuppercut.remotedatabasesexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982193361329-7glcou333ege31nacgsedblpmopbmsic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
